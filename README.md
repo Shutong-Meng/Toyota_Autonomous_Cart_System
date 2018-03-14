@@ -1,5 +1,6 @@
 # Toyota_Autonomous_Cart_System
-Cooperating with Japan Totota Company, the autonoumous L3-level system in ROS system。
+Cooperating with Japan Totota Company, the autonoumous L3-level system in ROS system.
+
 We use a cart as a trailer self-driving along the fixed line in Toyota Kyushu Park.
 
 # Function
