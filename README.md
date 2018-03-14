@@ -3,7 +3,17 @@ Cooperating with Japan Totota Company, the autonoumous L3-level system in ROS sy
 
 We use a cart as a trailer self-driving along the fixed line in Toyota Kyushu Park.
 
-# Function
+## Devices
+1. cart
+1. gps - ublox NEO-M8P-0
+1. laser - sick_mrs1000
+1. ZED camera
+1. Panasonic USB camera
+
+
+
+
+## Functions
 
 1. obstacle detection
 1. obstacle avoidance and overtaking
